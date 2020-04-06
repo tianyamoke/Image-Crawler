@@ -1,20 +1,34 @@
+package com.test;
+
+import com.alibaba.fastjson.JSONObject;
+import org.apache.http.Header;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
 import org.apache.http.HttpStatus;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.CloseableHttpClient;
+import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.impl.client.HttpClients;
+import org.apache.http.util.EntityUtils;
 
 import java.io.*;
-import java.net.HttpURLConnection;
-import java.net.MalformedURLException;
-import java.net.URL;
-import java.util.UUID;
+import java.net.URLDecoder;
 
 /**
- * 工具类
+ *
+ *
+ * @author lixing
+ * @date 2020/4/6
  */
-public class HttpUtils {
+public class ImgchrTokenCookieTools {
+
+    public static void main(String[] args) {
+        String result = get("http://imgchr.com");
+        int start = result.indexOf("PF.obj.config.auth_token =")+28;
+        int end = start+40;
+        System.out.println(result.substring(start,end));
+    }
+
 
     public static String get(String url){
         CloseableHttpClient client = HttpClients.createDefault();
@@ -22,6 +36,8 @@ public class HttpUtils {
         StringBuilder entityStringBuilder = new StringBuilder();
         try {
             HttpResponse res = client.execute(get);
+            String setCookie = res.getHeaders("Set-Cookie")[0].toString().split(";")[0];
+            System.out.println(setCookie.substring(12,setCookie.length()));
             if (res.getStatusLine().getStatusCode() == HttpStatus.SC_OK) {
                 HttpEntity httpEntity=res.getEntity();
                 if (httpEntity!=null) {
@@ -59,26 +75,5 @@ public class HttpUtils {
         fos.close();
     }
 
-    //链接url下载图片
-    public static void downloadPicture(String urlList,String path) throws Exception {
-        URL url;
-        try {
-            url = new URL(urlList);
-            HttpURLConnection conn = (HttpURLConnection) url.openConnection();
-            conn.setRequestMethod("GET");
-            conn.setConnectTimeout(5 * 1000);
-            InputStream inStream = conn.getInputStream();//通过输入流获取图片数据
-            String savePath = "/root/images/"+path+"/";
-            File imgDir = new File(savePath);
-            if(!imgDir.exists()){
-                imgDir.mkdirs();
-            }
-            HttpUtils.readInputStream(inStream, savePath+ UUID.randomUUID().toString()+".jpg");
-        } catch (MalformedURLException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
 
 }
