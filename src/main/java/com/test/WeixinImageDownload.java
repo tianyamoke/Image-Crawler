@@ -38,12 +38,20 @@ public class WeixinImageDownload {
             if (matcher.find()){
                 String oldUrl = matcher.group();
                 //先找到图片地址
-                if(oldUrl.startsWith("https://mmbiz.qpic.cn/")){
+                if(oldUrl.startsWith("https://mmbiz.qpic.cn/") || oldUrl.startsWith("http://mmbiz.qpic.cn/")){
                     System.out.println("上传第   " + count +"   张图片");
                     String jsonString = HttpUtils.get("https://api.uomg.com/api/image.360?imgurl="+oldUrl);
                     Object obj = JSONObject.parseObject(jsonString).get("imgurl");
                     if(obj==null){
-
+                        System.out.println(oldUrl);
+                        oldUrl = oldUrl.replaceAll("&amp;","&");
+                        String suffix = oldUrl.substring(oldUrl.indexOf("wx_fmt=")+7,oldUrl.indexOf("&tp=webp"));
+                        String newUrl = oldUrl.replace("tp=webp","tp="+suffix);
+                        String filePath = downloadPicture(newUrl,"weixin",suffix);
+                        JSONObject json = ImgchrFileUpload.upload(filePath);
+                        newUrl = json.get("data").toString();
+                        oldUrl = oldUrl.substring(0,oldUrl.indexOf("?"));
+                        s = s.replaceAll(oldUrl,newUrl);
                     }else{
                         String imgurl = obj.toString();
                         oldUrl = oldUrl.substring(0,oldUrl.indexOf("?"));
@@ -52,7 +60,7 @@ public class WeixinImageDownload {
                     count ++;
                 }
             }
-            fw.write(s.toString());
+            fw.write(s.toString()+"\n");
         }
         fw.flush();
         fw.close();
