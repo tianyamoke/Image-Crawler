@@ -39,11 +39,11 @@ public class WeixinImageDownload {
                 String oldUrl = matcher.group();
                 //先找到图片地址
                 if(oldUrl.startsWith("https://mmbiz.qpic.cn/") || oldUrl.startsWith("http://mmbiz.qpic.cn/")){
-                    System.out.println("上传第   " + count +"   张图片");
-                    String jsonString = HttpUtils.get("https://api.uomg.com/api/image.360?imgurl="+oldUrl);
-                    Object obj = JSONObject.parseObject(jsonString).get("imgurl");
-                    if(obj==null){
-                        System.out.println(oldUrl);
+                    System.out.println("开始处理第   " + count +"   张图片");
+//                    String jsonString = HttpUtils.get("https://api.uomg.com/api/image.360?imgurl="+oldUrl);
+//                    Object obj = JSONObject.parseObject(jsonString).get("imgurl");
+//                    if(obj==null){
+//                        System.out.println(oldUrl);
                         oldUrl = oldUrl.replaceAll("&amp;","&");
                         String suffix = oldUrl.substring(oldUrl.indexOf("wx_fmt=")+7,oldUrl.indexOf("&tp=webp"));
                         String newUrl = oldUrl.replace("tp=webp","tp="+suffix);
@@ -52,11 +52,12 @@ public class WeixinImageDownload {
                         newUrl = json.get("data").toString();
                         oldUrl = oldUrl.substring(0,oldUrl.indexOf("?"));
                         s = s.replaceAll(oldUrl,newUrl);
-                    }else{
-                        String imgurl = obj.toString();
-                        oldUrl = oldUrl.substring(0,oldUrl.indexOf("?"));
-                        s = s.replaceAll(oldUrl,imgurl);
-                    }
+                    System.out.println("第   " + count +"   张图片处理完成");
+//                    }else{
+//                        String imgurl = obj.toString();
+//                        oldUrl = oldUrl.substring(0,oldUrl.indexOf("?"));
+//                        s = s.replaceAll(oldUrl,imgurl);
+//                    }
                     count ++;
                 }
             }
@@ -70,6 +71,7 @@ public class WeixinImageDownload {
 
     //链接url下载图片
     public static String downloadPicture(String urlList,String path,String suffix) throws Exception {
+        System.out.println("开始下载图片.....");
         URL url;
         String filePath = "";
         try {

@@ -28,6 +28,7 @@ public class ImgchrFileUpload {
     }
 
     public static JSONObject upload(String filePath) throws Exception {
+        System.out.println("开始上传图片");
         File file = new File(filePath);
 
         HttpPost method = new HttpPost(IMGCHR_URL);

@@ -1,138 +1,175 @@
-<blockquote style="margin: 5px auto; padding: 0px; border: 0px; color: rgba(0, 0, 0, 0.5); font-size: 14px; max-width: 100%; font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	<section>
-		<section>
-			<section>
-				<section>
-					<section>
-						<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; line-height: 30px; text-indent: 2em; box-sizing: border-box !important; overflow-wrap: break-word !important;">
-							<span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important;">最近好多小伙伴们似乎都入手了自己心仪的车子，很多都在询问关于保养间隔的问题，有的品牌规定是5000公里一保，有的是7500公里一保，甚至有的时间更长，听得更多的是销售说的国内用车环境不好，最好缩短保养周期，那么问题来了，公里数和时间，以哪个为准，还是按照厂家的还是自己说了算呢，看完这个你就明白了。</span></p>
-					</section>
-				</section>
-			</section>
-		</section>
-	</section>
-</blockquote>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	&nbsp;</p>
-<blockquote style="margin: 5px auto; padding: 0px; border: 0px; color: rgba(0, 0, 0, 0.5); font-size: 14px; max-width: 100%; font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	<section>
-		<section>
-			<section>
-				<section>
-					<p style="margin-top: 0px; margin-bottom: 0px; padding: 8px 23px; max-width: 100%; clear: both; min-height: 1em; border-radius: 10px; color: rgb(34, 34, 34); font-size: 16px; display: inline-block; border-top: 5px solid rgb(255, 105, 31); border-bottom: 5px solid rgb(255, 105, 31); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-						<strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important;">保养周期是真情还是套路</strong></p>
-				</section>
-			</section>
-		</section>
-	</section>
-</blockquote>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	&nbsp;</p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; white-space: normal; background-color: rgb(255, 255, 255); text-align: center; box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	<img src="http://mmbiz.qpic.cn/mmbiz_jpg/0wMvrgq5rXYtDZwEO2lvX0sjtLuKe8NATXVURLJR06q8OQSz4d86Lq0VDxlANXvYq4SNQZkVjnV5tuIia7V6aGA/640?tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" /></p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	&nbsp;</p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	究竟厂家是不是真的那么在乎消费者用车的好坏呢，其实厂家是很纠结的，原因一是延长保养周期人家会觉得这品牌的车子市场竞争力厉害，但另一方面缩短保养周期又能带来良好的收益。</p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	&nbsp;</p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; white-space: normal; background-color: rgb(255, 255, 255); text-align: center; box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	<img src="http://mmbiz.qpic.cn/mmbiz_jpg/0wMvrgq5rXYtDZwEO2lvX0sjtLuKe8NAScKlS2TWy5xIT7jsafNODaricwKwgPMttMSQb58ljicZzNhrJPuq2ajw/640?tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" /></p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	&nbsp;</p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	不单只是厂家自己的思路是这样，连配套厂商（美孚、嘉实多、壳牌等）在产品说明书上写着的保质期是5-6年，建议5千公里-1万公里更换机油，但在拆封后的保质期就变了6个月左右了，就很明白的说明了时间间隔或者公里数哪个先到，就以哪个为准。</p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	&nbsp;</p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; white-space: normal; background-color: rgb(255, 255, 255); text-align: center; box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	<img src="http://mmbiz.qpic.cn/mmbiz_jpg/0wMvrgq5rXYtDZwEO2lvX0sjtLuKe8NAiao5kKNTCbeib4YhicKkjrQJkv5Rdp9npYSYa7VFfRISHGxjO2WJ3HFTg/640?tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" /></p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	&nbsp;</p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	4S店的想法就更加简单粗暴了，恨不得你2000公里保养一次，就能赚取更多的工时费和零配件费用，所以无论是销售还是售后都会负责任的跟你说，国内的交通状况这么拥堵，用车环境差，为了车子更好的状态，还是应该缩短保养周期吧！</p>
-<blockquote style="margin: 5px auto; padding: 0px; border: 0px; color: rgba(0, 0, 0, 0.5); font-size: 14px; max-width: 100%; font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: center; box-sizing: border-box !important; overflow-wrap: break-word !important;">
-		&nbsp;</p>
-	<blockquote style="margin: 5px auto; padding: 0px; border: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important;">
-		<section>
-			<section>
-				<section>
-					<section>
-						<p style="margin-top: 0px; margin-bottom: 0px; padding: 8px 23px; max-width: 100%; clear: both; min-height: 1em; border-radius: 10px; color: rgb(34, 34, 34); font-size: 16px; display: inline-block; border-top: 5px solid rgb(255, 105, 31); border-bottom: 5px solid rgb(255, 105, 31); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-							<strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important;"><strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-family: sans-serif;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important;">保养周期谁说了算</span></strong></span></strong></p>
-					</section>
-				</section>
-			</section>
-		</section>
-	</blockquote>
-	<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; overflow-wrap: break-word !important;">
-		&nbsp;</p>
-</blockquote>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; white-space: normal; background-color: rgb(255, 255, 255); text-align: center; box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	<img src="http://mmbiz.qpic.cn/mmbiz_jpg/0wMvrgq5rXYtDZwEO2lvX0sjtLuKe8NAdjoIaI0Bvdw3yCNjP7quBW5ADibXtEIamX32Uicxm4vbiaQE7R4P7SOvw/640?tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" /></p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	&nbsp;</p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	我们来看看一般的汽车配件保养周期表，质量好的配件还有先进的装配工艺能适当减小零配件之间的磨损，延长保养周期，而厂家的保养周期规定时间一般是以各种油液的保质期为主的，油液与空气接触后容易被氧化而导致品质发生变化，所以没到半年或者5000公里厂家也建议要求更换。</p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	&nbsp;</p>
-<blockquote style="margin: 5px auto; padding: 0px; border: 0px; color: rgba(0, 0, 0, 0.5); font-size: 14px; max-width: 100%; font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	<blockquote style="margin: 5px auto; padding: 0px; border: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important;">
-		<section>
-			<section>
-				<section>
-					<section>
-						<p style="margin-top: 0px; margin-bottom: 0px; padding: 8px 23px; max-width: 100%; clear: both; min-height: 1em; border-radius: 10px; color: rgb(34, 34, 34); font-size: 16px; display: inline-block; border-top: 5px solid rgb(255, 105, 31); border-bottom: 5px solid rgb(255, 105, 31); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-							<strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important;"><strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-family: sans-serif;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important;"><strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-family: 微软雅黑;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; vertical-align: top;">质保期内听厂家的</span></strong></span></strong></span></strong></p>
-					</section>
-				</section>
-			</section>
-		</section>
-	</blockquote>
-	<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: center; box-sizing: border-box !important; overflow-wrap: break-word !important;">
-		&nbsp;</p>
-</blockquote>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; white-space: normal; background-color: rgb(255, 255, 255); text-align: center; box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	<img src="http://mmbiz.qpic.cn/mmbiz_jpg/0wMvrgq5rXYtDZwEO2lvX0sjtLuKe8NACWFtzUsibRkfFhLLghYmVn56yjNRDgqPrXmvibU9tc2xAPQeWr2yAArw/640?tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" /></p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	&nbsp;</p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	如果质保期内你不按厂家要求保养手册的规定项目来进行保养，将会不享受质保，所以还是不必冒脱保的风险，完全可以按照手册上的保养项目来做就可以了，加什么机油听厂家的，换什么配件听厂家的，什么时候换听厂家的。。。</p>
-<blockquote style="margin: 5px auto; padding: 0px; border: 0px; color: rgba(0, 0, 0, 0.5); font-size: 14px; max-width: 100%; font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: center; box-sizing: border-box !important; overflow-wrap: break-word !important;">
-		&nbsp;</p>
-	<blockquote style="margin: 5px auto; padding: 0px; border: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important;">
-		<section>
-			<section>
-				<section>
-					<section>
-						<p style="margin-top: 0px; margin-bottom: 0px; padding: 8px 23px; max-width: 100%; clear: both; min-height: 1em; border-radius: 10px; color: rgb(34, 34, 34); font-size: 16px; display: inline-block; border-top: 5px solid rgb(255, 105, 31); border-bottom: 5px solid rgb(255, 105, 31); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-							<strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important;"><strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-family: sans-serif;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important;"><strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-family: 微软雅黑;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; vertical-align: top;"><strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; vertical-align: top;">过了质保期听车子的</span></strong></span></strong></span></strong></span></strong></p>
-					</section>
-				</section>
-			</section>
-		</section>
-	</blockquote>
-	<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; overflow-wrap: break-word !important;">
-		&nbsp;</p>
-</blockquote>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; white-space: normal; background-color: rgb(255, 255, 255); text-align: center; box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	<img src="http://mmbiz.qpic.cn/mmbiz_jpg/0wMvrgq5rXYtDZwEO2lvX0sjtLuKe8NAkwKJdnMdQRYDVDZtZ16dr8UtPJzk5nt4XrfKRcZVNcyGm48d1bGYnA/640?tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" /></p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	&nbsp;</p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	大部分车主习惯看公里数来进行保养，其实还和驾驶习惯和使用条件有关的，如果你的车子每天都会开着，那么跑的里程就自然会多，可以按公里数去做常规保养，比如5000公里一保；如果你用车时间非常少，一个月才用三两回，就跑个两三百公里，一年也跑不到常规保养公里数，是不是就不用保养了呢，不是这样的，虽然你的车子用得少，但是半年保养一次也是应该的。</p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	&nbsp;</p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; white-space: normal; background-color: rgb(255, 255, 255); text-align: center; box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	<img src="http://mmbiz.qpic.cn/mmbiz_jpg/0wMvrgq5rXYtDZwEO2lvX0sjtLuKe8NAevkXUeiaGgY9F0hHG1oPRZcDGOXr58FVD0ib1Feiav5NgYiaIzFib5EDT0Q/640?tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" /></p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	&nbsp;</p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	对于不同牌子的车，保养的时间和公里数也不一样，加的机油级别不一样，影响也不一样，全合成机油7-8千公里换一次也没问题，也可以用机油滤纸来测试机油的好坏，学习一点保养小知识，根据自己用车的经验来判断是否要做保养了；对于4s店的话信一半就好了，千万别被忽悠了，过了质保期后也不一定要到4S店去做保养，去外面比较大型的维修厂经济又实惠。</p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	<img src="http://mmbiz.qpic.cn/mmbiz_jpg/0wMvrgq5rXa4R7gAict4OEk2JQuDP3RhuI3YYicNTiav96fkQB3EMFBVich9eXbksQI6DFvLg8FUg6GzYaM28aqMsA/640?wx_fmt=jpeg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" /></p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; white-space: normal; background-color: rgb(255, 255, 255); text-align: center; box-sizing: border-box !important; overflow-wrap: break-word !important;">
-	<img class="__bg_gif" src="http://mmbiz.qpic.cn/mmbiz/0wMvrgq5rXasGU05889PUkqdUmichMnqibPvWOQGqgKMpMBoZskpdBtU3wcdiaQTFwsViba5NibBzSoyDEunt2aGbfg/0?wx_fmt=gif&amp;wxfrom=5&amp;wx_lazy=1&amp;tp=webp" /></p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">最近结束的印度德里国际车展，显然已经成为了长城汽车的主场，或者说，长城汽车已经在印度德里国际车展上成为了东道主。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">——在本届印度德里车展上，长城汽车旗下的哈弗品牌、欧拉品牌以及零部件模块，独立占据了整整一个展馆，参展面积高达3150平米。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;"></span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">长城汽车的印度战略，也正式宣告起航。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <img class="rich_pages " src="https://mmbiz.qpic.cn/mmbiz_png/NSSwia32scRLtMJpdTYZT4EZ83FXZqsuic19s1vHPTDn62DAO4eia5tm0UGs6ZKhgDef3QnRKrFY3OibicOiaO5zIvxg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"/>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">在今年1月17日，长城汽车正式收购了通用汽车印度公司。</span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">按照计划，长城汽车在印度本地投产的车型将在2021年正式下线。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;"></span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">种种迹象表明，届时在长城汽车印度分公司下线的首款车型，就应该是在本届印度德里国际车展上大放异彩的哈弗Concept H概念车的量产版车型。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;"></span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">从概念车的情况来看，这辆哈弗Concept H已经具备了极高的量产化特性，预计在未来的几个月时间里，量产版车型就将正式登陆国内市场。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">于是，这样一个问题也就随之而来了，在这辆哈弗Concept H概念车上，有哪些亮点值得关注呢？</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">哈弗品牌家族化设计语言的演变。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <img class="rich_pages " src="https://mmbiz.qpic.cn/mmbiz_png/NSSwia32scRLtMJpdTYZT4EZ83FXZqsuicyZGwcwTknY6FFZNqibHfPK5nWibnAPrkcuCgUUNnVghgzOkIk3VxKAJQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"/>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">哈弗的品牌家族化设计语言，从哈弗CUV的时代就开始了多样化的探索。</span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">不同于其他品牌的是，哈弗品牌对于家族化造型语言的选择，是一个完全依托于市场的过程。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;"></span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">一个典型的例子是，早年间哈弗H5以欧风版和尊贵版两种造型语言投放市场，哈弗H6也提供了运动版以及经典版的前脸造型。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <img class="rich_pages " src="https://mmbiz.qpic.cn/mmbiz_png/NSSwia32scRLtMJpdTYZT4EZ83FXZqsuicjqHDL1xmOoZuGeejrrDRrE85kunS5mmicoOZEMWZ9WEAOnFhkkvxFXQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"/>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">市场的选择不会造假，自2013年哈弗品牌正式独立以来，哈弗品牌的家族化造型语言开始固化。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;"></span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">在本届德里国际车展上发布的Concept H概念车，就是全新一代哈弗H系列的家族化设计的首款车型。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">从前脸的造型上来看，全新的哈弗Concept H概念车的前脸特征有几分意思。</span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">就整体的比例以及风格呈现上来看，哈弗Concept H概念车与此前我们所熟悉的哈弗品牌车型保持了一致。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;"></span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">比如说，这是现款销售的哈弗H6。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <img class="rich_pages " src="https://mmbiz.qpic.cn/mmbiz_png/NSSwia32scRLtMJpdTYZT4EZ83FXZqsuic1OqlLpxoH3XvUX8AN8zSsQHCDWdfxwpoiajFZXHI9XM2acKCwIOfHpg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"/>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">这是哈弗H4。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <img class="rich_pages " src="https://mmbiz.qpic.cn/mmbiz_png/NSSwia32scRLtMJpdTYZT4EZ83FXZqsuicsqGosb5VB6ssYPPia3OLVcfruo6iaU7chsJsKLEOCc2HlMXdVw4AfhVQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"/>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">可以看到，在现阶段的哈弗H系列品牌造型语言的一大特点在于多边形的大嘴式进气格栅与切角式大灯。</span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">二者构成了视觉重心相对靠下的侵略感设计。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">同样的，在哈弗Concept H概念车上，这种下沉的侵略感风格得以保留。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;"></span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">而相比于现款的哈弗H系列造型语言的升级在于，通过进气格栅横向尺寸的拓展，以及缩小大灯在车头正面投影中的比例，实现了大灯与进气格栅的融合，</span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">弱化了大灯在车头部分的视觉重心作用，实现了车头横向宽度的拓展。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">这一家族化造型语言演变的思路，和奥迪最新一代的家族化演变思路是一致的。</span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">而奥迪的家族化演变，是这样的。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <img class="rich_pages " src="https://mmbiz.qpic.cn/mmbiz_jpg/NSSwia32scRLtMJpdTYZT4EZ83FXZqsuicTcX0LErnOUCQST9sCeictcomKIKSaLY5ccnW7ePwB4gI9CQmv2PxXiaw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"/>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <img class="rich_pages " src="https://mmbiz.qpic.cn/mmbiz_jpg/NSSwia32scRLtMJpdTYZT4EZ83FXZqsuicUhAlAibJj2C73d7JJ9eaibVz2JUOANGxibIfWvZxMaG3wvFibbHqUzeLLw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"/>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">在强化车头横向宽度的同时，哈弗Concept H概念车又以两侧的LED日间行车灯所形成的纵向特征，以及两侧进气口尺寸的加大，构成了纵向的特征，对横线感强化的大灯等区域进行了平衡。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;"></span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">于是，全新的哈弗Concept H概念车的车头造型，也就被牢牢的限制在了一个可控的范围内，没有过多的向两侧扩散开。</span><br/>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">至于前脸的一些细节设计，包括点阵式的进气格栅，以及两侧进气口的横向特征，都将这辆车科技感和品质感的一面进行了呈现。</span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">尤其是前保险杠两侧进气口的横向特征，是绝对要好评的。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <img class="rich_pages " src="https://mmbiz.qpic.cn/mmbiz_jpg/NSSwia32scRLtMJpdTYZT4EZ83FXZqsuic2YFT45CdCFPATxIrQQDdDwsUIBc9ANIv3OsJEriaBwXohPBDmxJyPPQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"/>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">车辆尾部的设计亮点在于尾灯的处理，通过对T型特征在X/Y/Z三个轴线上的立体变化，形成了立体式的尾灯形象，并且将尾部的视觉重心位置进行了下沉。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;"></span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">于是，相较于现阶段的哈弗H系列车型的尾部，全新的哈弗Concept H概念车要稳重了一些。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">没错，稳重，或者说紧致，是哈弗Concept H概念车所要强调的一个设计主旨。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <img class="rich_pages " src="https://mmbiz.qpic.cn/mmbiz_png/NSSwia32scRLtMJpdTYZT4EZ83FXZqsuicJfQ5ruanQKDlrWQicQFkcTJ0GACopoIetXSkBl2VlBM22hXib0tfEOuQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"/>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">就整体上而言，哈弗Concept H概念车要比现在任何的一款哈弗H系列车型都来得更为紧致。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;"></span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">整体的线条以及型面等细节的设计，都紧密的围绕着去构建一种紧致的大体量感在努力。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;"></span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">所以，从哈弗Concept H概念车的比例姿态上来看，它的体量感并不小。</span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">而且整车的风格也趋于一种稳重的运动感。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;"></span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">通过稳重的动感，以及以及张弛有度的前脸形象构建起来之后，一直会困扰着前驱SUV的车头视觉重心过重而车尾过轻的情况，在哈弗Concept H概念车得到了大幅度的改善。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <img class="rich_pages " src="https://mmbiz.qpic.cn/mmbiz_png/NSSwia32scRLtMJpdTYZT4EZ83FXZqsuicmDmUl8RVpsvhibCeEhg8yBPErW1nor5LTNZfPeZ5aXHia6ADaQAve02Q/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"/>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">值得注意的一个细节在于，哈弗Concept H概念车的侧窗面积在整车侧面所占的比例有了明显的加大，这与现款哈弗H系列车型更多的追求运动的小侧窗设计有所不同。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;"></span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">大侧窗的设计必然会带来一个更为通透的内部空间表现，这一点很值得期待——就像前面讲到的那样，这辆概念车已经具备了极高的量产化特质。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">和现在所流行的设计趋势相吻合的是，全新的哈弗Concept H概念车也在车身侧面的大面位置，以内凹的光影来强调型面的质感。</span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">通过光影的变化和具化的小倒角腰线，形成虚实结合的比例划分点。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <img class="rich_pages " src="https://mmbiz.qpic.cn/mmbiz_png/NSSwia32scRLtMJpdTYZT4EZ83FXZqsuicHvrEzpKzgb4GBclVMBHuLdgkKyia68eWsGlIffLbBZN2dRDlzfGNqug/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"/>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">可以这样讲，单纯的从外观设计的角度而言，全新的哈弗Concept H概念车可以归属到那种以均衡和中庸的风格构建的紧凑型SUV形象。</span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">在这样的设计下，你很难在其中找到什么让人觉得不舒服的地方。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;"></span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">从这样的形象来看，可以肯定的是，未来量产之后的哈弗Concept H概念车，将会是哈弗品牌的一个主销产品。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <img class="rich_pages " src="https://mmbiz.qpic.cn/mmbiz_jpg/NSSwia32scRLtMJpdTYZT4EZ83FXZqsuic9TXAUABVA5SB3YM0TXRLyxXqHcc55Tfld7gmWOybsoFv9XdLFbMSmg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"/>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">内饰的设计风格依旧是横向线条的构成，并且进一步的抬高了副仪表板的高度，来压缩仪表板的纵向尺寸，形体上构成的科技感非常到位。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;"></span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">或许是因为概念车的缘故，哈弗Concept H概念车的整个副仪表板还采用了大面积的液晶触控面板。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;"></span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">预计未来量产后的版本，将会对此有所调整。</span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">不过呢，考虑到目前哈弗品牌的设计总监曾就职于路虎，所以也不排除这种全玻璃化的操控面板直接投产的可能。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;"></span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">毕竟，在车载触控科技已经成为产业化发展体系的当下，要实现这样的功能，并不是一件难事。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <img class="rich_pages " src="https://mmbiz.qpic.cn/mmbiz_png/NSSwia32scRLtMJpdTYZT4EZ83FXZqsuicwQRSTfe0vABZeWgKhstQt72sNQwZl6QGUAdHL0jwDZpXMtNdYmYYMg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"/>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">最后，我们还是把关注点放回到印度市场。</span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">随着长城汽车印度战略的开启，长城汽车的全球化步伐也迈向了更加坚实的一步。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;"></span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">正如前面讲到的那样，从时间节点上来看，量产版的哈弗Concept H概念车很有可能成为首款在印度国产的车型。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;"></span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">以长城汽车的精益化生产体系来看，这辆车的登场，将会在印度市场大有作为。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;"></span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">当然了，可以肯定的是，这款全新的车型也将会成为继承哈弗F7之后，哈弗H系列中的首款全球化车型。</span>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <img class="rich_pages " src="https://mmbiz.qpic.cn/mmbiz_png/NSSwia32scRLtMJpdTYZT4EZ83FXZqsuic9hYwwibsGnNRzU0uzz6xiaic4HIK26OjcfDUQvBBhv6E6ztnHmHhR1f1w/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"/>
+</p>
+<p style="margin: 15px 16px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; line-height: 1.75em;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; letter-spacing: 2px;">于是，问题就只剩下最后一个了，这辆哈弗Concept H概念车的量产版，会是哈弗H6的第三代车型吗？</span>
+</p>
+<div class="qr_code_pc_outer" style="margin: 0px; padding: 0px; position: fixed; left: 0px; right: 0px; top: 32px; color: rgb(113, 115, 117); text-align: center; font-family: -apple-system-font, system-ui, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 16px; letter-spacing: 0.544px; white-space: normal; background-color: rgb(242, 242, 242);"></div>
 <p>
-	&nbsp;</p>
+    <br/>
+</p>

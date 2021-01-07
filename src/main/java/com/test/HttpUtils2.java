@@ -11,12 +11,11 @@ import java.io.*;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
-import java.util.UUID;
 
 /**
  * 工具类
  */
-public class HttpUtils {
+public class HttpUtils2 {
 
     public static String get(String url){
         CloseableHttpClient client = HttpClients.createDefault();
@@ -75,7 +74,7 @@ public class HttpUtils {
             if(!imgDir.exists()){
                 imgDir.mkdirs();
             }
-            HttpUtils.readInputStream(inStream, savePath+ title);
+            HttpUtils2.readInputStream(inStream, savePath+ title);
         } catch (MalformedURLException e) {
             e.printStackTrace();
         } catch (IOException e) {
